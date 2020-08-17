@@ -23,9 +23,9 @@ public class BooleanExpressions {
     System.out.println(num1 + " is less than " + num2 + ": " + bool1);
     System.out.println(num1 + " is greater than " + num2 + ": " + bool2);
     System.out.println(num1 + " is less than or equal to " + num2 + ": " + bool3);
-    System.out.println(num1 + " is greater than or equal to " + num2 + ": " bool4);
-    System.out.println(num1 + " is equal to " + num2 + "; " + bool5);
-    System.out.println(num1 + " is not equal to " + num2 + "; " + bool6);
+    System.out.println(num1 + " is greater than or equal to " + num2 + ": " + bool4);
+    System.out.println(num1 + " is equal to " + num2 + ": " + bool5);
+    System.out.println(num1 + " is not equal to " + num2 + ": " + bool6);
 
  }
 }
